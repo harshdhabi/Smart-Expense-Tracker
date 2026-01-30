@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "amount": 200.0,
+        "category": "Food",
+        "description": "Shahi Paneer ",
+        "date": "2026-01-26"
+    },
+    {
+        "id": 3,
+        "amount": 500.0,
+        "category": "Movie",
+        "description": "Watched Dhurandhar in PVR",
+        "date": "2026-01-26"
+    },
+    {
+        "id": 4,
+        "amount": 1700.0,
+        "category": "Shopping",
+        "description": "Bought Shoes this week ",
+        "date": "2026-01-26"
+    },
+    {
+        "id": 6,
+        "amount": 120.0,
+        "category": "Food & Beverages",
+        "description": "Chowmin and Tea",
+        "date": "2026-01-27"
+    },
+    {
+        "id": 8,
+        "amount": 200.0,
+        "category": "Food",
+        "description": "Tiffin not Delivered Today",
+        "date": "2026-01-29"
+    }
+]
